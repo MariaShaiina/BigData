@@ -55,3 +55,4 @@ services:
     volumes:
       - "./../data:/mnt/data"
       - "./:/home/mapr/lab_1"
+      
